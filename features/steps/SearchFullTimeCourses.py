@@ -51,7 +51,7 @@ def clickResetButton(context):
 
 @then(u'the default list of courses will be displayed')
 def verifyDefaultCourses(context):
-    assert context.driver.find_eleemnt(By.XPATH, '/html/body/main/section/div/div[2]/div[2]/div').text == 'Displaying 1 - 9 of 41 courses'
+    assert context.driver.find_element(By.XPATH, '/html/body/main/section/div/div[2]/div[2]/div').text == 'Displaying 1 - 9 of 41 courses'
     sleep(3)
 
 

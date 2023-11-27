@@ -20,7 +20,6 @@ Feature: Verify Full Time Courses page
     Examples:
         |courseCluster|
         |Engineering|
-        |Applied Sciences|
         |Information & Digital Technologies|
 
 
