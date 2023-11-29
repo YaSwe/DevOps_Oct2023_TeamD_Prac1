@@ -11,7 +11,7 @@
 **Clear All Search Input** - Joey 
 
 **Search for information related to Information Technology** - Bryan <br>
-**Search for how to enrol into Ngee Ann*8 - Bryan
+**Search for how to enrol into Ngee Ann** - Bryan
 <br>
 
 **Screenshots of test cases**: [Screenshots Folder](./screenshots)
